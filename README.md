@@ -19,7 +19,7 @@
 <a href="https://github.com/sohamroy19#js-contribution-activity">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sohamroy19&theme=tokyonight&count_private=true&show_icons=true&include_all_commits=true" />
 </a>
-&nbsp;
+<!-- &nbsp; -->
 <a href="https://github.com/search?q=author:sohamroy19">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohamroy19&theme=tokyonight&layout=compact&hide=jupyter%20notebook,scss,css" />
 </a>
