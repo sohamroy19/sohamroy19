@@ -14,7 +14,8 @@
 - 🔭 I’m currently working on [e-gater](https://github.com/sohamroy19/e-gater)
 - 👀 I’m interested in core software development and deep learning.
 - 🌱 I’m currently learning the intricacies of C, C++ and Python, and using them for scalable and maintainable projects.
-- 📫 You can reach me at my email: sohamsroy19@gmail.com
+- 📫 You can reach me at my email sohamsroy19@gmail.com
+- 🖥️ Check out [my website](http://www.sohamroy.ml)
 
 <a href="https://github.com/sohamroy19#js-contribution-activity">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sohamroy19&theme=tokyonight&count_private=true&show_icons=true&include_all_commits=true" />
