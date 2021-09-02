@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning the intricacies of C, C++ and Python, and using them for scalable and maintainable projects.
 - 📫 You can reach me at my email sohamsroy19@gmail.com.
 - 🖥️ Check out [my website](http://www.sohamroy.ml)!
-- 🏆 Check out my [CodeChef](https://www.codechef.com/users/sohamroy19) and my [Codeforces](https://codeforces.com/profile/royS)!
+- 🏆 Check out [my CodeChef](https://www.codechef.com/users/sohamroy19) and [my Codeforces](https://codeforces.com/profile/royS)!
 
 <a href="https://github.com/sohamroy19#js-contribution-activity">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sohamroy19&theme=tokyonight&count_private=true&show_icons=true&include_all_commits=true" />
