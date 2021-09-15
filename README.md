@@ -23,5 +23,5 @@
 </a>
 <!-- &nbsp; -->
 <a href="https://github.com/search?q=author:sohamroy19">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohamroy19&theme=tokyonight&layout=compact&hide=jupyter%20notebook,scss,css,javascript&langs_count=6" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohamroy19&theme=tokyonight&layout=compact&hide=jupyter%20notebook,scss,css&langs_count=8" />
 </a>
