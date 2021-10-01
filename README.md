@@ -11,7 +11,7 @@
 </a>
  -->
  
-- 🔭 I’m currently working on [e-gater](https://github.com/sohamroy19/e-gater).
+- 🔭 I’m currently working on [e-gater](https://github.com/sohamroy19/e-gater) & [Algorithms](https://github.com/sohamroy19/Algorithms).
 - 👀 I’m interested in core software development and deep learning.
 - 🌱 I’m currently learning the intricacies of C, C++ and Python, and using them for scalable and maintainable projects.
 - 📫 You can reach me at my email sohamsroy19@gmail.com.
