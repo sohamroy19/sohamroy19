@@ -19,9 +19,9 @@
 - 🏆 Check out [my CodeChef](https://www.codechef.com/users/sohamroy19) and [my Codeforces](https://codeforces.com/profile/royS)!
 
 <a href="https://github.com/sohamroy19#js-contribution-activity">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sohamroy19&theme=tokyonight&count_private=true&show_icons=true&include_all_commits=true" width=50%/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sohamroy19&theme=tokyonight&count_private=true&show_icons=true&include_all_commits=true" width=57%/>
 </a>
 <!-- &nbsp; -->
 <a href="https://github.com/search?q=author:sohamroy19">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohamroy19&theme=tokyonight&layout=compact&hide=jupyter%20notebook,scss,css&langs_count=8" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohamroy19&theme=tokyonight&layout=compact&hide=jupyter%20notebook,scss,css&langs_count=8" width=41%/>
 </a>
