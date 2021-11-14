@@ -1,5 +1,3 @@
-![contribution-graph-snake](https://raw.githubusercontent.com/sohamroy19/sohamroy19/output/github-contribution-grid-snake.svg)
-
 ### Hi there, I’m [Soham](http://www.sohamroy.ml) 👋
 
 <!-- <a href="https://codesandbox.io/u/anuraghazra">
@@ -27,3 +25,6 @@
 <a href="https://github.com/search?q=author:sohamroy19">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohamroy19&theme=tokyonight&layout=compact&hide=jupyter%20notebook,scss,css&langs_count=8" width=41.5%/>
 </a>
+
+<!-- Sourced from https://github.com/Platane/snk -->
+![contribution-graph-snake](https://raw.githubusercontent.com/sohamroy19/sohamroy19/output/github-contribution-grid-snake.svg)
