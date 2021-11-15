@@ -27,4 +27,5 @@
 </a>
 
 <!-- Sourced from https://github.com/Platane/snk -->
-![contribution-graph-snake](https://raw.githubusercontent.com/sohamroy19/sohamroy19/output/github-contribution-grid-snake.svg)
+<!-- ![contribution-graph-snake](https://raw.githubusercontent.com/sohamroy19/sohamroy19/output/github-contribution-grid-snake.svg) -->
+<!-- Removed due to dark mode detection issues on linux -->
