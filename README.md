@@ -1,21 +1,10 @@
-### Hi there, I’m [Soham](http://www.sohamroy.ml) 👋
-
-<!-- <a href="https://codesandbox.io/u/anuraghazra">
-  <img align="left" alt="Soham Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
-<a href="https://twitter.com/anuraghazru">
-  <img align="left" alt="Soham Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://discord.gg/VK4k3Br">
-  <img align="left" alt="Soham's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
-</a>
- -->
+### Hi there, I’m [Soham](https://www.sohamroy.tech) 👋
  
-- 🔭 I’m currently working on [BonelessOS](https://github.com/sohamroy19/BonelessOS), [Algorithms](https://github.com/sohamroy19/Algorithms) and random open-source projects.
+- 🔭 I’m currently working on a few private projects.
 - 👀 I’m interested in core software development and deep learning.
 - 🌱 I’m currently learning the intricacies of C, C++ and Python, and using them for scalable and maintainable projects.
 - 📫 You can reach me at my email sohamsroy19@gmail.com.
-- 🖥️ Check out [my website](http://www.sohamroy.ml)!
+- 🖥️ Check out [my website](https://www.sohamroy.tech)!
 - 🏆 Check out [my CodeChef](https://www.codechef.com/users/sohamroy19) and [my Codeforces](https://codeforces.com/profile/royS)!
 
 <a href="https://github.com/sohamroy19#js-contribution-activity">
